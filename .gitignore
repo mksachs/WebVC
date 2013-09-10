@@ -9,7 +9,6 @@ local_settings.py
 **/media/vc_data/*_dat
 **/media/vc_data/*_eqsim
 **/media/vc_data
-**/static
 **/webvc/vcal_webgui.db
 **/vcal_webgui/settings.py
 
