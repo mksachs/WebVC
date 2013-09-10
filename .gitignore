@@ -12,7 +12,6 @@ local_settings.py
 **/static
 **/webvc/vcal_webgui.db
 **/vcal_webgui/settings.py
-**/design
 
 #########################
 # .gitignore file for Xcode4 / OS X Source projects

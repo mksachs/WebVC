@@ -214,15 +214,9 @@
 		B82825A11742A1D7006A6096 /* view_event_list.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = view_event_list.html; sourceTree = "<group>"; };
 		B82825A21742A1D7006A6096 /* view_fault_map.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = view_fault_map.html; sourceTree = "<group>"; };
 		B82825A31742A1D7006A6096 /* visual.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = visual.pdf; sourceTree = "<group>"; };
-		B82825AF1742A6AC006A6096 /* Chaos.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Chaos.py; sourceTree = "<group>"; };
-		B82825B11742A6AC006A6096 /* Converter.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Converter.py; sourceTree = "<group>"; };
-		B82825BB1742A6AC006A6096 /* MyVector.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = MyVector.py; sourceTree = "<group>"; };
-		B82825BD1742A6AC006A6096 /* Utils.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Utils.py; sourceTree = "<group>"; };
-		B82825BF1742A6AC006A6096 /* VC.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = VC.py; sourceTree = "<group>"; };
-		B82826701742A6AC006A6096 /* eli_demo.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = eli_demo.py; sourceTree = "<group>"; };
-		B82826981742A6AC006A6096 /* sandbox.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sandbox.py; sourceTree = "<group>"; };
-		B82826A71742A6AC006A6096 /* vcal_py.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = vcal_py.py; sourceTree = "<group>"; };
 		B82826B01742A76C006A6096 /* event_list.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = event_list.html; sourceTree = "<group>"; };
+		B876703917DF79EC005CC78B /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		B876703A17DF79EC005CC78B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		B87C9B29174594A700164E3F /* action.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = action.js; sourceTree = "<group>"; };
 		B8D6623917823B2900EAB25A /* vc_browser.pth */ = {isa = PBXFileReference; lastKnownFileType = text; path = vc_browser.pth; sourceTree = "<group>"; };
 		B8F94E6B1742D7C800471FF0 /* VC.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = VC.css; sourceTree = "<group>"; };
@@ -296,9 +290,9 @@
 		B816CBF817419F64002B7133 = {
 			isa = PBXGroup;
 			children = (
+				B876703817DF79CF005CC78B /* other */,
 				B8D6623917823B2900EAB25A /* vc_browser.pth */,
 				B8FAC525174FFB54005A2D47 /* create_caches.py */,
-				B82825A41742A6AB006A6096 /* vcal_py */,
 				B82824871742A1BC006A6096 /* design */,
 				B825CE011741A41D001C5235 /* vc_browser */,
 				B825CC6717419FF6001C5235 /* manage.py */,
@@ -605,30 +599,6 @@
 			path = js;
 			sourceTree = "<group>";
 		};
-		B82825A41742A6AB006A6096 /* vcal_py */ = {
-			isa = PBXGroup;
-			children = (
-				B82825AD1742A6AC006A6096 /* classes */,
-				B82826701742A6AC006A6096 /* eli_demo.py */,
-				B82826981742A6AC006A6096 /* sandbox.py */,
-				B82826A71742A6AC006A6096 /* vcal_py.py */,
-			);
-			name = vcal_py;
-			path = ../vcal_py;
-			sourceTree = "<group>";
-		};
-		B82825AD1742A6AC006A6096 /* classes */ = {
-			isa = PBXGroup;
-			children = (
-				B82825AF1742A6AC006A6096 /* Chaos.py */,
-				B82825B11742A6AC006A6096 /* Converter.py */,
-				B82825BB1742A6AC006A6096 /* MyVector.py */,
-				B82825BD1742A6AC006A6096 /* Utils.py */,
-				B82825BF1742A6AC006A6096 /* VC.py */,
-			);
-			path = classes;
-			sourceTree = "<group>";
-		};
 		B82826AE1742A76C006A6096 /* templates */ = {
 			isa = PBXGroup;
 			children = (
@@ -646,6 +616,15 @@
 				B82826B01742A76C006A6096 /* event_list.html */,
 			);
 			path = vc_browser;
+			sourceTree = "<group>";
+		};
+		B876703817DF79CF005CC78B /* other */ = {
+			isa = PBXGroup;
+			children = (
+				B876703917DF79EC005CC78B /* LICENSE */,
+				B876703A17DF79EC005CC78B /* README.md */,
+			);
+			name = other;
 			sourceTree = "<group>";
 		};
 		B8F94E681742D7C800471FF0 /* static */ = {
