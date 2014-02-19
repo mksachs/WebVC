@@ -1,16 +1,12 @@
 *.log
 *.pot
 *.pyc
-local_settings.py
+*.pth
 
 # Other
-**/media/vc_data/*_images
-**/media/vc_data/*_cache
-**/media/vc_data/*_dat
-**/media/vc_data/*_eqsim
-**/media/vc_data
-**/webvc/vcal_webgui.db
-**/vcal_webgui/settings.py
+**/data/*.h5
+
+**/local/
 
 #########################
 # .gitignore file for Xcode4 / OS X Source projects
