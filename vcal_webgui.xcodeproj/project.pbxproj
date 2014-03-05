@@ -55,6 +55,7 @@
 		B880818718C7E1BC00B9C03D /* ne_10m_urban_areas.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.shx; sourceTree = "<group>"; };
 		B880818818C7E1BC00B9C03D /* ne_10m_urban_areas.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_urban_areas.VERSION.txt; sourceTree = "<group>"; };
 		B880818918C7E1BC00B9C03D /* states.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = states.json; sourceTree = "<group>"; };
+		B880818D18C7ECAE00B9C03D /* map.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = map.json; sourceTree = "<group>"; };
 		B8D3B75A18AD6B8F00B39972 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -182,6 +183,7 @@
 		B8D3B75818AD6B8F00B39972 /* static */ = {
 			isa = PBXGroup;
 			children = (
+				B880818D18C7ECAE00B9C03D /* map.json */,
 				B8D3B75918AD6B8F00B39972 /* css */,
 				B8D3B75A18AD6B8F00B39972 /* index.html */,
 				B8D3B75B18AD6B8F00B39972 /* js */,
