@@ -25,75 +25,46 @@
 		B87C80C718A96D36006DA82A /* vcutils.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = vcutils.py; sourceTree = "<group>"; };
 		B87C80CC18A96D36006DA82A /* pyvc_tests.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pyvc_tests.py; sourceTree = "<group>"; };
 		B87C80CD18A96D36006DA82A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
-		B87C80D318A98D0F006DA82A /* ne_10m_admin_0_map_subunits.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_0_map_subunits.cpg; sourceTree = "<group>"; };
-		B87C80D418A98D0F006DA82A /* ne_10m_admin_0_map_subunits.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_0_map_subunits.dbf; sourceTree = "<group>"; };
-		B87C80D518A98D0F006DA82A /* ne_10m_admin_0_map_subunits.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_0_map_subunits.prj; sourceTree = "<group>"; };
-		B87C80D618A98D0F006DA82A /* ne_10m_admin_0_map_subunits.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_0_map_subunits.README.html; sourceTree = "<group>"; };
-		B87C80D718A98D0F006DA82A /* ne_10m_admin_0_map_subunits.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_0_map_subunits.shp; sourceTree = "<group>"; };
-		B87C80D818A98D0F006DA82A /* ne_10m_admin_0_map_subunits.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_0_map_subunits.shx; sourceTree = "<group>"; };
-		B87C80D918A98D0F006DA82A /* ne_10m_admin_0_map_subunits.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_0_map_subunits.VERSION.txt; sourceTree = "<group>"; };
-		B87C80DB18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces.cpg; sourceTree = "<group>"; };
-		B87C80DC18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces.dbf; sourceTree = "<group>"; };
-		B87C80DD18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces.prj; sourceTree = "<group>"; };
-		B87C80DE18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_1_states_provinces.README.html; sourceTree = "<group>"; };
-		B87C80DF18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces.shp; sourceTree = "<group>"; };
-		B87C80E018A98D0F006DA82A /* ne_10m_admin_1_states_provinces.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces.shx; sourceTree = "<group>"; };
-		B87C80E118A98D0F006DA82A /* ne_10m_admin_1_states_provinces.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces.VERSION.txt; sourceTree = "<group>"; };
-		B87C80E318A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lakes.cpg; sourceTree = "<group>"; };
-		B87C80E418A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lakes.dbf; sourceTree = "<group>"; };
-		B87C80E518A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lakes.prj; sourceTree = "<group>"; };
-		B87C80E618A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_1_states_provinces_lakes.README.html; sourceTree = "<group>"; };
-		B87C80E718A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lakes.shp; sourceTree = "<group>"; };
-		B87C80E818A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lakes.shx; sourceTree = "<group>"; };
-		B87C80E918A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lakes.VERSION.txt; sourceTree = "<group>"; };
-		B87C80EB18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lines.cpg; sourceTree = "<group>"; };
-		B87C80EC18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lines.dbf; sourceTree = "<group>"; };
-		B87C80ED18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lines.prj; sourceTree = "<group>"; };
-		B87C80EE18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_1_states_provinces_lines.README.html; sourceTree = "<group>"; };
-		B87C80EF18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lines.shp; sourceTree = "<group>"; };
-		B87C80F018A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lines.shx; sourceTree = "<group>"; };
-		B87C80F118A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lines.VERSION.txt; sourceTree = "<group>"; };
-		B87C80F218A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lines_shp.dbf; sourceTree = "<group>"; };
-		B87C80F318A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lines_shp.prj; sourceTree = "<group>"; };
-		B87C80F418A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_1_states_provinces_lines_shp.README.html; sourceTree = "<group>"; };
-		B87C80F518A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lines_shp.shp; sourceTree = "<group>"; };
-		B87C80F618A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lines_shp.shx; sourceTree = "<group>"; };
-		B87C80F718A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lines_shp.VERSION.txt; sourceTree = "<group>"; };
-		B87C80F918A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_scale_rank.cpg; sourceTree = "<group>"; };
-		B87C80FA18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_scale_rank.dbf; sourceTree = "<group>"; };
-		B87C80FB18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_scale_rank.prj; sourceTree = "<group>"; };
-		B87C80FC18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_1_states_provinces_scale_rank.README.html; sourceTree = "<group>"; };
-		B87C80FD18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_scale_rank.shp; sourceTree = "<group>"; };
-		B87C80FE18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_scale_rank.shx; sourceTree = "<group>"; };
-		B87C80FF18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_scale_rank.VERSION.txt; sourceTree = "<group>"; };
-		B87C810118A98D0F006DA82A /* ne_10m_populated_places.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_populated_places.cpg; sourceTree = "<group>"; };
-		B87C810218A98D0F006DA82A /* ne_10m_populated_places.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_populated_places.dbf; sourceTree = "<group>"; };
-		B87C810318A98D0F006DA82A /* ne_10m_populated_places.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_populated_places.prj; sourceTree = "<group>"; };
-		B87C810418A98D0F006DA82A /* ne_10m_populated_places.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_populated_places.README.html; sourceTree = "<group>"; };
-		B87C810518A98D0F006DA82A /* ne_10m_populated_places.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_populated_places.shp; sourceTree = "<group>"; };
-		B87C810618A98D0F006DA82A /* ne_10m_populated_places.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_populated_places.shx; sourceTree = "<group>"; };
-		B87C810718A98D0F006DA82A /* ne_10m_populated_places.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_populated_places.VERSION.txt; sourceTree = "<group>"; };
-		B87C810918A98D0F006DA82A /* ne_10m_urban_areas.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.dbf; sourceTree = "<group>"; };
-		B87C810A18A98D0F006DA82A /* ne_10m_urban_areas.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_urban_areas.prj; sourceTree = "<group>"; };
-		B87C810B18A98D0F006DA82A /* ne_10m_urban_areas.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_urban_areas.README.html; sourceTree = "<group>"; };
-		B87C810C18A98D0F006DA82A /* ne_10m_urban_areas.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.shp; sourceTree = "<group>"; };
-		B87C810D18A98D0F006DA82A /* ne_10m_urban_areas.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.shx; sourceTree = "<group>"; };
-		B87C810E18A98D0F006DA82A /* ne_10m_urban_areas.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_urban_areas.VERSION.txt; sourceTree = "<group>"; };
-		B87C810F18A98D0F006DA82A /* places.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = places.json; sourceTree = "<group>"; };
-		B87C811018A98D0F006DA82A /* states.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = states.json; sourceTree = "<group>"; };
-		B87C811218A98F77006DA82A /* states-countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "states-countries.json"; sourceTree = "<group>"; };
-		B87C811318A99F29006DA82A /* countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		B880816718C7DADE00B9C03D /* map_data_parse.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = map_data_parse.py; sourceTree = "<group>"; };
+		B880816918C7E1BC00B9C03D /* countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		B880816B18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_0_map_subunits.cpg; sourceTree = "<group>"; };
+		B880816C18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_0_map_subunits.dbf; sourceTree = "<group>"; };
+		B880816D18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_0_map_subunits.prj; sourceTree = "<group>"; };
+		B880816E18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_0_map_subunits.README.html; sourceTree = "<group>"; };
+		B880816F18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_0_map_subunits.shp; sourceTree = "<group>"; };
+		B880817018C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_0_map_subunits.shx; sourceTree = "<group>"; };
+		B880817118C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_0_map_subunits.VERSION.txt; sourceTree = "<group>"; };
+		B880817318C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lakes.cpg; sourceTree = "<group>"; };
+		B880817418C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lakes.dbf; sourceTree = "<group>"; };
+		B880817518C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lakes.prj; sourceTree = "<group>"; };
+		B880817618C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_admin_1_states_provinces_lakes.README.html; sourceTree = "<group>"; };
+		B880817718C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lakes.shp; sourceTree = "<group>"; };
+		B880817818C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_admin_1_states_provinces_lakes.shx; sourceTree = "<group>"; };
+		B880817918C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_admin_1_states_provinces_lakes.VERSION.txt; sourceTree = "<group>"; };
+		B880817B18C7E1BC00B9C03D /* ne_10m_populated_places.cpg */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_populated_places.cpg; sourceTree = "<group>"; };
+		B880817C18C7E1BC00B9C03D /* ne_10m_populated_places.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_populated_places.dbf; sourceTree = "<group>"; };
+		B880817D18C7E1BC00B9C03D /* ne_10m_populated_places.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_populated_places.prj; sourceTree = "<group>"; };
+		B880817E18C7E1BC00B9C03D /* ne_10m_populated_places.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_populated_places.README.html; sourceTree = "<group>"; };
+		B880817F18C7E1BC00B9C03D /* ne_10m_populated_places.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_populated_places.shp; sourceTree = "<group>"; };
+		B880818018C7E1BC00B9C03D /* ne_10m_populated_places.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_populated_places.shx; sourceTree = "<group>"; };
+		B880818118C7E1BC00B9C03D /* ne_10m_populated_places.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_populated_places.VERSION.txt; sourceTree = "<group>"; };
+		B880818318C7E1BC00B9C03D /* ne_10m_urban_areas.dbf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.dbf; sourceTree = "<group>"; };
+		B880818418C7E1BC00B9C03D /* ne_10m_urban_areas.prj */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_urban_areas.prj; sourceTree = "<group>"; };
+		B880818518C7E1BC00B9C03D /* ne_10m_urban_areas.README.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ne_10m_urban_areas.README.html; sourceTree = "<group>"; };
+		B880818618C7E1BC00B9C03D /* ne_10m_urban_areas.shp */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.shp; sourceTree = "<group>"; };
+		B880818718C7E1BC00B9C03D /* ne_10m_urban_areas.shx */ = {isa = PBXFileReference; lastKnownFileType = file; path = ne_10m_urban_areas.shx; sourceTree = "<group>"; };
+		B880818818C7E1BC00B9C03D /* ne_10m_urban_areas.VERSION.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ne_10m_urban_areas.VERSION.txt; sourceTree = "<group>"; };
+		B880818918C7E1BC00B9C03D /* states.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = states.json; sourceTree = "<group>"; };
 		B8D3B75A18AD6B8F00B39972 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		B8D3B75C18AD866100B39972 /* map_parse.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = map_parse.py; sourceTree = "<group>"; };
-		B8D3B75D18AD89D700B39972 /* urban-areas.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "urban-areas.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		B816CBF817419F64002B7133 = {
 			isa = PBXGroup;
 			children = (
+				B880816718C7DADE00B9C03D /* map_data_parse.py */,
+				B880816218C7DAD400B9C03D /* map_data */,
 				B8D3B75818AD6B8F00B39972 /* static */,
-				B87C80D118A98D0F006DA82A /* local */,
 				B87C7EF918A96D32006DA82A /* PyVC */,
 				B87C7EF618A96416006DA82A /* webvc.py */,
 				B87C7EF818A96C7D006DA82A /* pyvc.pth */,
@@ -140,125 +111,70 @@
 			path = pyvc;
 			sourceTree = "<group>";
 		};
-		B87C80D118A98D0F006DA82A /* local */ = {
+		B880816218C7DAD400B9C03D /* map_data */ = {
 			isa = PBXGroup;
 			children = (
-				B87C811318A99F29006DA82A /* countries.json */,
-				B8D3B75D18AD89D700B39972 /* urban-areas.json */,
-				B87C80D218A98D0F006DA82A /* ne_10m_admin_0_map_subunits */,
-				B87C80DA18A98D0F006DA82A /* ne_10m_admin_1_states_provinces */,
-				B87C80E218A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes */,
-				B87C80EA18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines */,
-				B87C80F818A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank */,
-				B87C810018A98D0F006DA82A /* ne_10m_populated_places */,
-				B87C810818A98D0F006DA82A /* ne_10m_urban_areas */,
-				B87C810F18A98D0F006DA82A /* places.json */,
-				B87C811018A98D0F006DA82A /* states.json */,
-				B87C811218A98F77006DA82A /* states-countries.json */,
-				B8D3B75C18AD866100B39972 /* map_parse.py */,
+				B880816918C7E1BC00B9C03D /* countries.json */,
+				B880816A18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits */,
+				B880817218C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes */,
+				B880817A18C7E1BC00B9C03D /* ne_10m_populated_places */,
+				B880818218C7E1BC00B9C03D /* ne_10m_urban_areas */,
+				B880818918C7E1BC00B9C03D /* states.json */,
 			);
-			path = local;
+			path = map_data;
 			sourceTree = "<group>";
 		};
-		B87C80D218A98D0F006DA82A /* ne_10m_admin_0_map_subunits */ = {
+		B880816A18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits */ = {
 			isa = PBXGroup;
 			children = (
-				B87C80D318A98D0F006DA82A /* ne_10m_admin_0_map_subunits.cpg */,
-				B87C80D418A98D0F006DA82A /* ne_10m_admin_0_map_subunits.dbf */,
-				B87C80D518A98D0F006DA82A /* ne_10m_admin_0_map_subunits.prj */,
-				B87C80D618A98D0F006DA82A /* ne_10m_admin_0_map_subunits.README.html */,
-				B87C80D718A98D0F006DA82A /* ne_10m_admin_0_map_subunits.shp */,
-				B87C80D818A98D0F006DA82A /* ne_10m_admin_0_map_subunits.shx */,
-				B87C80D918A98D0F006DA82A /* ne_10m_admin_0_map_subunits.VERSION.txt */,
+				B880816B18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.cpg */,
+				B880816C18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.dbf */,
+				B880816D18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.prj */,
+				B880816E18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.README.html */,
+				B880816F18C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.shp */,
+				B880817018C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.shx */,
+				B880817118C7E1BC00B9C03D /* ne_10m_admin_0_map_subunits.VERSION.txt */,
 			);
 			path = ne_10m_admin_0_map_subunits;
 			sourceTree = "<group>";
 		};
-		B87C80DA18A98D0F006DA82A /* ne_10m_admin_1_states_provinces */ = {
+		B880817218C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes */ = {
 			isa = PBXGroup;
 			children = (
-				B87C80DB18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.cpg */,
-				B87C80DC18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.dbf */,
-				B87C80DD18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.prj */,
-				B87C80DE18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.README.html */,
-				B87C80DF18A98D0F006DA82A /* ne_10m_admin_1_states_provinces.shp */,
-				B87C80E018A98D0F006DA82A /* ne_10m_admin_1_states_provinces.shx */,
-				B87C80E118A98D0F006DA82A /* ne_10m_admin_1_states_provinces.VERSION.txt */,
-			);
-			path = ne_10m_admin_1_states_provinces;
-			sourceTree = "<group>";
-		};
-		B87C80E218A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes */ = {
-			isa = PBXGroup;
-			children = (
-				B87C80E318A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.cpg */,
-				B87C80E418A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.dbf */,
-				B87C80E518A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.prj */,
-				B87C80E618A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.README.html */,
-				B87C80E718A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.shp */,
-				B87C80E818A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.shx */,
-				B87C80E918A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lakes.VERSION.txt */,
+				B880817318C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.cpg */,
+				B880817418C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.dbf */,
+				B880817518C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.prj */,
+				B880817618C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.README.html */,
+				B880817718C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.shp */,
+				B880817818C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.shx */,
+				B880817918C7E1BC00B9C03D /* ne_10m_admin_1_states_provinces_lakes.VERSION.txt */,
 			);
 			path = ne_10m_admin_1_states_provinces_lakes;
 			sourceTree = "<group>";
 		};
-		B87C80EA18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines */ = {
+		B880817A18C7E1BC00B9C03D /* ne_10m_populated_places */ = {
 			isa = PBXGroup;
 			children = (
-				B87C80EB18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.cpg */,
-				B87C80EC18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.dbf */,
-				B87C80ED18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.prj */,
-				B87C80EE18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.README.html */,
-				B87C80EF18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.shp */,
-				B87C80F018A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.shx */,
-				B87C80F118A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines.VERSION.txt */,
-				B87C80F218A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.dbf */,
-				B87C80F318A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.prj */,
-				B87C80F418A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.README.html */,
-				B87C80F518A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.shp */,
-				B87C80F618A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.shx */,
-				B87C80F718A98D0F006DA82A /* ne_10m_admin_1_states_provinces_lines_shp.VERSION.txt */,
-			);
-			path = ne_10m_admin_1_states_provinces_lines;
-			sourceTree = "<group>";
-		};
-		B87C80F818A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank */ = {
-			isa = PBXGroup;
-			children = (
-				B87C80F918A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.cpg */,
-				B87C80FA18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.dbf */,
-				B87C80FB18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.prj */,
-				B87C80FC18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.README.html */,
-				B87C80FD18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.shp */,
-				B87C80FE18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.shx */,
-				B87C80FF18A98D0F006DA82A /* ne_10m_admin_1_states_provinces_scale_rank.VERSION.txt */,
-			);
-			path = ne_10m_admin_1_states_provinces_scale_rank;
-			sourceTree = "<group>";
-		};
-		B87C810018A98D0F006DA82A /* ne_10m_populated_places */ = {
-			isa = PBXGroup;
-			children = (
-				B87C810118A98D0F006DA82A /* ne_10m_populated_places.cpg */,
-				B87C810218A98D0F006DA82A /* ne_10m_populated_places.dbf */,
-				B87C810318A98D0F006DA82A /* ne_10m_populated_places.prj */,
-				B87C810418A98D0F006DA82A /* ne_10m_populated_places.README.html */,
-				B87C810518A98D0F006DA82A /* ne_10m_populated_places.shp */,
-				B87C810618A98D0F006DA82A /* ne_10m_populated_places.shx */,
-				B87C810718A98D0F006DA82A /* ne_10m_populated_places.VERSION.txt */,
+				B880817B18C7E1BC00B9C03D /* ne_10m_populated_places.cpg */,
+				B880817C18C7E1BC00B9C03D /* ne_10m_populated_places.dbf */,
+				B880817D18C7E1BC00B9C03D /* ne_10m_populated_places.prj */,
+				B880817E18C7E1BC00B9C03D /* ne_10m_populated_places.README.html */,
+				B880817F18C7E1BC00B9C03D /* ne_10m_populated_places.shp */,
+				B880818018C7E1BC00B9C03D /* ne_10m_populated_places.shx */,
+				B880818118C7E1BC00B9C03D /* ne_10m_populated_places.VERSION.txt */,
 			);
 			path = ne_10m_populated_places;
 			sourceTree = "<group>";
 		};
-		B87C810818A98D0F006DA82A /* ne_10m_urban_areas */ = {
+		B880818218C7E1BC00B9C03D /* ne_10m_urban_areas */ = {
 			isa = PBXGroup;
 			children = (
-				B87C810918A98D0F006DA82A /* ne_10m_urban_areas.dbf */,
-				B87C810A18A98D0F006DA82A /* ne_10m_urban_areas.prj */,
-				B87C810B18A98D0F006DA82A /* ne_10m_urban_areas.README.html */,
-				B87C810C18A98D0F006DA82A /* ne_10m_urban_areas.shp */,
-				B87C810D18A98D0F006DA82A /* ne_10m_urban_areas.shx */,
-				B87C810E18A98D0F006DA82A /* ne_10m_urban_areas.VERSION.txt */,
+				B880818318C7E1BC00B9C03D /* ne_10m_urban_areas.dbf */,
+				B880818418C7E1BC00B9C03D /* ne_10m_urban_areas.prj */,
+				B880818518C7E1BC00B9C03D /* ne_10m_urban_areas.README.html */,
+				B880818618C7E1BC00B9C03D /* ne_10m_urban_areas.shp */,
+				B880818718C7E1BC00B9C03D /* ne_10m_urban_areas.shx */,
+				B880818818C7E1BC00B9C03D /* ne_10m_urban_areas.VERSION.txt */,
 			);
 			path = ne_10m_urban_areas;
 			sourceTree = "<group>";
